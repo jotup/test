@@ -1,3 +1,4 @@
 # test
-Description
+Description.
+
 Extra line.
